@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <title></title>
+        <style>
+            iframe {
+  width: 100%;
+  height: 600px;
+  border: 0;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+nav {
+      background: #222;
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      padding: 15px 30px;
+      position: sticky;
+      top: 0;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    nav a:hover {
+      color: #f39c12;
+    }
+  
+        </style>
+    </head>
+    <body>
+
+         <section class="about">
+    <div class="about">
+    <h2>About US</h2>
+   
+  <div>
+    <nav>
+    <div class="logo"><strong>KarrySports Store</strong></div>
+    <div class="nav-links">
+      <a href="index.php">Home</a>
+      <a href="services.php">Services</a>
+      <a href="about.php">About</a>
+      <a href="blog.php">Blog</a>
+      <a href="contacts.php">Contact Us</a>
+      
+  </nav>
+  </div>
+    <p>We provide high-quality sports bags <br> designed for athletes, gym-goers,
+         and adventurers. Our mission <br> is to combine durability with style.</p>
+</div>
+  </section>
+
+    <!-- Footer -->
+  <footer>
+   
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27914.374868285213!2d28.
+      2109594!3d-29.00820015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e8d1754c1932c3f%3A0xa00cf853f5371d0!2sPitseng!5e0!3m2!1sen!2sls!4v1756973469873!5m2!1sen!2sls" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"></iframe> 
+    </body>
+</html>
